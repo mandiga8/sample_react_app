@@ -1,8 +1,8 @@
 //import logo from './logo.svg';
 import './App.css';
-import Header1 from './components/Header1';
-import Body1
- from './components/Body1';
+import Header1 from './components/Header1/Header1';
+import Body1 from './components/Body1/Body1'
+
 function App() {
   return (
     <div className="App">
